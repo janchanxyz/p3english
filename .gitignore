@@ -6,3 +6,10 @@ dist/
 **/__pycache__/
 *.pyc
 .DS_Store
+
+.env
+.env.*
+
+# local image enrichment
+.unsplash-checkpoint.json
+.unsplash-cache.json
